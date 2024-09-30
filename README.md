@@ -30,6 +30,7 @@ Cadlog-System é um sistema web desenvolvido para gerenciar cadastros de usuári
     - Senha
     - Perfil (Admin, Gestor, Colaborador)
     - Estilo visual atrativo com fundo roxo e componentes centralizados.
+    
    ```php 
         <!DOCTYPE html>
         <html lang="pt-BR">
@@ -46,7 +47,7 @@ Cadlog-System é um sistema web desenvolvido para gerenciar cadastros de usuári
             <!-- Código do formulário de cadastro -->
         </body>
         </html>
-        ```
+ 
    2. **Login de Usuário** `(login.php)`
    
     Formulário que solicita:
@@ -70,7 +71,7 @@ Cadlog-System é um sistema web desenvolvido para gerenciar cadastros de usuári
         <!-- Código do formulário de login -->
     </body>
     </html>
-```
+
  ## Tecnoligas Utilizadas
  
    ° HTML5    
