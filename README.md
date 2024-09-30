@@ -4,8 +4,8 @@
    - [Descrição](#descri%C3%A7%C3%A3o)
    - [Funcionalidades](#funcionalidades)
    - [Estrutura do Projeto](#estrutura-do-projeto)
-   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-   - [Requisitos](#fontes-consultadas)
+   - [Tecnologias Utilizadas](#tecnoligas-utilizadas)
+   - [Requisitos](#requisitos)
    - [Autores](#autores)
  
  ## Descrição
@@ -24,8 +24,8 @@ Cadlog-System é um sistema web desenvolvido para gerenciar cadastros de usuári
 
   1. **Cadastro de Usuário** `(register.php)`
 
- ![image info](img/cadastro.png.png)
- 
+  [image info](img/cadastro.png.png)!
+
     Formulário que solicita:
     - Nome
     - E-mail
@@ -51,8 +51,8 @@ Cadlog-System é um sistema web desenvolvido para gerenciar cadastros de usuári
         ```
    2. **Login de Usuário** `(login.php)`
 
-![image info](img/login.png.png)
-
+[image info](img/login.png.png)!
+   
     Formulário que solicita:
     - E-mail
     - Senha
@@ -89,3 +89,4 @@ Cadlog-System é um sistema web desenvolvido para gerenciar cadastros de usuári
 ## ✒️ Autores
 
 [Julia Burque](https://github.com/juliaburque/cadlog-system) 
+
