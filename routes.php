@@ -16,11 +16,17 @@ switch ($action){
     case 'login':
         $authController->login();
         break;
-        case 'register';
+    case 'logout':
+            $authController->logaut();
+        break;  
+    case 'register';
         $userControler->register();
-        default:
-        $authController->login();
         break;
+    case 'dashboard';
+        $dashboardController->index();
+        break;    
+        $authController->login();
+        default;
     
 
 }
